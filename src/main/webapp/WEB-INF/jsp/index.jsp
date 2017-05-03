@@ -18,28 +18,28 @@
 
     <div>
         <div>
-            커피 1
+            에스프레소 2분
         </div>
         <div>
-            <input name="coffre1" type="number" value="0">
+            <input name="espresso" type="number" value="0">
         </div>
         <div>
-            커피 2
+            아메리카노 3분
         </div>
         <div>
-            <input type="number" value="0">
+            <input name="americano" type="number" value="0">
         </div>
         <div>
-            커피 3
+            과일 주스 5분
         </div>
         <div>
-            <input type="number" value="0">
+            <input name="fruitjuice" type="number" value="0">
         </div>
         <div>
-            커피 4
+            카페라테 4분
         </div>
         <div>
-            <input type="number" value="0">
+            <input name="cafelatte" type="number" value="0">
         </div>
 
         <div>
