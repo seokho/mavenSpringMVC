@@ -47,5 +47,9 @@
         </div>
     </div>
 </form>
+<div>
+    <h2>제조 예상 시간 </h2>
+    <div id="maketime">${order.americano}</div>
+</div>
 </body>
 </html>
